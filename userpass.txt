@@ -1,0 +1,9 @@
+username password user_type name email
+
+test_user;test_pass;N;Test User;test@gmail.com
+khushik;blawg;R;KKushi Khan;khshiskh@hotmail.com
+agonzalez;coolbeans123;O;Alina J Gonzalez;fish@fish.org
+gigglepig12;123;R;Greg Pig;greg112@hotmail.com
+erigby24;beatle123;F;Eleanor Rigby;erig24@hotmail.com
+cbox;box123;O;Carol Box;carolb43@gmail.com
+kristy4;12345;C;Kristine;kriskristy4@gmail.com
